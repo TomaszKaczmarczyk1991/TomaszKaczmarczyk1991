@@ -8,7 +8,7 @@ This GitHub profile serves as a documentation of my progress, learnings, and pro
 Fun facts:
 - 💿 I still listen to CDs
 - 🍣 Spend far too much money on sushi 
-- 🎛 Tweaking knobs on my analog synthesizers turns me on
+- 🎛 Tweaking knobs turns me on
 - 🎸 My neighbors hate me. Telecaster > Stratocaster
 
 
