@@ -6,9 +6,9 @@ This GitHub profile serves as a documentation of my progress, learnings, and pro
 - 🌱 I’m currently learning algorithms and data structures
   
 Fun facts:
-- I love sushi 🍣 
-- Often immersing myself in the sonic exploration of sound by tweaking knobs 🎛 of analog synthesizers 
-- Learning to rock on my Telecaster 🎸🤘
+🍣 I love sushi  
+🎛 Often immersing myself in the sonic exploration of sound by tweaking knobs on analog synthesizers 
+🎸 I make life difficult for my neighbors. Rocking on Telecaster 🤘
 
 
 <!--
