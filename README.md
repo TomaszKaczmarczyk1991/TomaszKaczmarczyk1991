@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there!
 
 This GitHub profile serves as a documentation of my progress, learnings, and projects as I delve deeper into the world of coding.
 
