@@ -9,7 +9,7 @@ Fun facts:
 - 💿 I still listen to CDs
 - 🍣 Spend far too much money on sushi 
 - 🎛 Tweaking knobs turns me on
-- 🎸 My neighbors hate me. Telecaster > Stratocaster
+- 🎸 My neighbors hate me
 
 
 
