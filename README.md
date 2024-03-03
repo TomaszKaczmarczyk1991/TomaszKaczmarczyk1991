@@ -8,8 +8,8 @@ This GitHub profile serves as a documentation of my progress, learnings, and pro
 Fun facts:
 - 💿 I still listen to CDs
 - 🍣 Spend far too much money on sushi 
-- 🎛 I am sucker for analog synthesizers
-- 🎸 I play on electric guitar and think that Telecasters > Strats
+- 🎛 I make noise with analog synthesizers
+- 🎸 I play electric guitar and think that Telecasters > Strats
 - 🏘️ I think my neighbors hate me
 
 
