@@ -9,7 +9,7 @@ Fun facts:
 - 💿 I still listen to CDs
 - 🍣 Spend far too much money on sushi 
 - 🎛 I make noise with analog synthesizers
-- 🎸 I play electric guitar and think that Telecasters > Strats
+- 🎸 I chug and turn my amps to eleven
 - 🏘️ I think my neighbors hate me
 
 
