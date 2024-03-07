@@ -8,7 +8,7 @@ This GitHub profile serves as a documentation of my progress, learnings, and pro
 Fun facts:
 - 💿 I still listen to CDs
 - 🍣 I spend far too much money on sushi
-- 🧉 Drinking Yerba Mate is daily ritual for me
+- 🧉 I am addicted to Ilex paraguariensis
 - 🎛 I make noise with analog synthesizers
 - 🎸 I chug and turn my amps to eleven
 - 🏘️ I think my neighbors hate me
