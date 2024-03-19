@@ -3,7 +3,7 @@
 This GitHub profile serves as a documentation of my progress, learnings, and projects as I delve deeper into the world of coding.
 
 - 💻 Aspiring Dev
-- 🌱 I’m currently learning algorithms and data structures
+- 🌱 I’m currently learning frontend technologies and algorithms and data structures
   
 Fun facts:
 - 💿 I still listen to CDs
