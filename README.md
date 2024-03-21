@@ -9,9 +9,6 @@ Fun facts:
 - 🧉 I am addicted to Ilex paraguariensis
 - 🎛 I make noise with analog synthesizers
 - 🎸 I chug and turn my amps to eleven
-.
-.
-.
 - 🏘️ I think my neighbors hate me
 
 
