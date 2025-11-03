@@ -1,17 +1,6 @@
 ### Hi there!
 
 This GitHub profile serves as a documentation of my progress, learnings, and projects as I delve deeper into the world of coding.
-
-- 💻 Aspiring Frontend Developer
-  
-Fun facts:
-- 💿 I still listen to CDs
-- 🧉 I am addicted to Ilex paraguariensis
-- 🎛 I make noise with analog synthesizers and electric guitar 🎸
-- 🏘️ I think my neighbors hate me
-
-
-
 <!--
 **TomaszKaczmarczyk1991/TomaszKaczmarczyk1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
